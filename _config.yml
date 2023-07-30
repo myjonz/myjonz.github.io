@@ -5,9 +5,9 @@ baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
 title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+subtitle: "2023年的那一天"
+description: "有客来，悦"
+keywords: 码志, Zhuang Ma, mzlogin, 工作中
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
